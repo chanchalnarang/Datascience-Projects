@@ -1,4 +1,4 @@
-pip install python
+
 import pandas as pd
 import numpy as np
 from pandas import DatetimeIndex
@@ -11,6 +11,3 @@ CleanData=Turbine_df
 Clean_df=pd.DataFrame(CleanData)
 print(Clean_df.isna().sum())
 print(Clean_df)
-
-
-ll
