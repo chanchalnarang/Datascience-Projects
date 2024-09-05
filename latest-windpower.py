@@ -12,7 +12,7 @@ print(Turbine_df)
 # Clean_df=pd.DataFrame(CleanData)
 # Clean_df_updated=[pd.to_datetime(row) for row in Clean_df['Unnamed: 0']]
 # updated_Df=pd.DataFrame(Clean_df_updated)
-# print(updated_Df.columns)
+# print(updated_
 
 
 
